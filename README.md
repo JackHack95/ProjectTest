@@ -47,6 +47,7 @@ In this project used third parity libraries are:
          -Getting all the users
          -Creating new user and storing to host address
          -Editing the current user details
+         -nice ui
 
  all the host address and the user details are belong to https://frogogo.ru 
  
