@@ -57,5 +57,5 @@ In this project used third parity libraries are:
   
 
 License
-  This Test Project is available under GNU GENERAL PUBLIC LICENSE. See the LICENSE file for more info.
+  This Test Project is available under GNU GENERAL PUBLIC LICENSE. See the GNU License file for more info.
  
