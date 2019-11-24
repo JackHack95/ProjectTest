@@ -50,4 +50,11 @@ In this project used third parity libraries are:
 
  all the host address and the user details are belong to https://frogogo.ru 
  
+ Author 
+ 
+  JackHack95 : https://github.com/JackHack95
+  
+
+License
+  This Test Project is available under GNU GENERAL PUBLIC LICENSE. See the LICENSE file for more info.
  
